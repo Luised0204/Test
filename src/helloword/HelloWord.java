@@ -15,7 +15,12 @@ public class HelloWord {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+        System.out.println("Bienvenido a la clase de POO");
+        //metacomandos:
+        //SOUT
+        //psvm
+        
     }
     
 }
