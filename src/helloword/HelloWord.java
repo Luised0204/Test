@@ -17,6 +17,7 @@ public class HelloWord {
     public static void main(String[] args) {
         
         System.out.println("xD xD");
+        System.out.println("Prueba exitosa....");
         //metacomandos:
         //SOUT
         //psvm
