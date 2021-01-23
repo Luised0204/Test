@@ -16,7 +16,7 @@ public class HelloWord {
      */
     public static void main(String[] args) {
         
-        System.out.println("Bienvenido a la clase de POO");
+        System.out.println("xD xD");
         //metacomandos:
         //SOUT
         //psvm
